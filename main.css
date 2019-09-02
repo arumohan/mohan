@@ -1,0 +1,39 @@
+/* Sélecteur CSS */
+/* Sélecteur par TAG */
+h2, h3{
+    /* Gestion des Couleurs */
+    color: white;
+    background-color: brown;
+}
+
+.redBackground{
+    background-color: red;
+}
+
+/* h3 background */
+#blueBackground{
+    background-color: blue;
+}
+
+/* Gestion du text */
+p{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 35px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+body{
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 50px;
+}
+header, section{
+    margin-bottom: 40px;
+}
